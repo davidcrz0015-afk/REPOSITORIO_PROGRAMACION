@@ -356,4 +356,5 @@ En Python, un número entero normal (int) no está limitado a un byte. Como resu
 5. La notación utilizada en el diagrama de flujo debe ser  independiente del lenguaje de programación. 
 6. Al realizar una tarea compleja, es conveniente poner  comentarios que expresen o ayuden a entender lo que  hayamos hecho. 
 7. Si la construcción del diagrama de flujo requiriera más de  una hoja, debemos utilizar los conectores adecuados y  enumerar las páginas correspondientes. 
-8. No puede llegar más de una línea a un símbolo  determinado
+8. No puede llegar más de una línea a un símbolo  determinado.
+
